@@ -1,0 +1,7 @@
+toolsName,tools,whichParts
+Flashlight,30,GPU for Samsung s8 GPU for Samsung s7 GPU for Iphone 12 CPU for Samsung s8 CPU for Samsung s7 CPU for Iphone 12 Charger port for Huawei p20
+Hammer,50,GPU for Huawei p20 GPU for Huawei p40 GPU for OnePlus 8T GPU for OnePlus 7T Charger port for Samsung s8 Charger port for Samsung s7 Charger port for Huawei p40
+Soldering Iron,33, GPU for Iphone 11 Screen for Samsung s8 Screen for Samsung s7 Screen for Iphone 12 Screen for Iphone 11 Screen for Huawei p40
+Antistatic Mat,40, Screen for Huawei p20 Screen for OnePlus 7T for OnePlus 8T CPU for Huawei p20 CPU for Huawei p40 CPU for Iphone 11 Charger port for OnePlus 7T
+Solder Wire,60, CPU for OnePlus 8T CPU for OnePlus 7T Battery for Samsung s8 Battery for Samsung s7 Battery for Huawei p40 Battery for Huawei p20 Charger port for OnePlus 8T
+Magnifying Lamp,70, Battery for Iphone 11 Battery for Iphone 12 Battery for OnePlus 7T Battery for OnePlus 8T Charger port for Iphone 11 Charger port for Iphone 12

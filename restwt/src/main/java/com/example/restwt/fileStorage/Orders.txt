@@ -1,0 +1,11 @@
+orderID,materialOrToolName,boughtOrBorrowed
+14,Battery for Iphone 11,true
+341,Battery for Iphone 11,true
+772,Battery for Iphone 11,true
+516,Battery for Iphone 11,true
+157,Battery for Iphone 11,true
+353,Battery for Iphone 11,false
+543,Battery for Iphone 11,false
+769,Battery for Iphone 11,false
+741,Battery for Iphone 11,false
+571,Battery for Iphone 11,false

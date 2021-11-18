@@ -1,0 +1,13 @@
+friendsName,material/tool,material/tool,material/tool,material,tool
+Aleksandar,GPU for Samsung s8,GPU for Samsung s7,Screwdriver,GPU for Iphone 12
+Peter,CPU for Samsung s8,CPU for Samsung s7,Flashlight,CPU for Iphone 12
+Simon,Screen for Samsung s8,Screen for Samsung s7,Hammer,Screen for Iphone 12
+Jovan,Battery for Samsung s8,Battery for Samsung s7,Charger port for Samsung s8,Battery for Iphone 12
+Ilija,Charger port for Samsung s7,Charger port for Iphone 12,GPU for Iphone 11,CPU for Iphone 11
+Gogo,Screen for Iphone 11,Battery for Iphone 11,Charger port for Iphone 11,GPU for Huawei p40
+Nikita,CPU for Huawei p40,Screen for Huawei p40,Battery for Huawei p40,Charger port for Huawei p40
+Marko,GPU for Huawei p20,CPU for Huawei p20,Screen for Huawei p20,Battery for Huawei p20
+Bojan,Charger port for Huawei p20,GPU for OnePlus 8T,CPU for OnePlus 8T,Screen for OnePlus 8T
+Stefan,Battery for OnePlus 8T,Charger port for OnePlus 8T,GPU for OnePlus 7T,CPU for OnePlus 7T
+Vedran,Screen for OnePlus 7T,Battery for OnePlus 7T,Charger port for OnePlus 7T,Cables
+Petar,Soldering Iron,Antistatic Mat,Solder Wire,Magnifying Lamp

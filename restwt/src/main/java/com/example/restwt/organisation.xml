@@ -1,0 +1,55 @@
+<organisation xmlns="http://cpee.org/ns/organisation/1.0">
+<units>
+<unit id="University">
+<permissions/>
+</unit>
+<unit id="Admission Office">
+<parent>University</parent>
+<permissions/>
+</unit>
+<unit id="Alek Corp">
+<parent>Parent</parent>
+<permissions/>
+</unit>
+</units>
+<roles>
+<role id="Admin">
+<permissions/>
+</role>
+<role id="Supervisor">
+<permissions/>
+</role>
+<role id="User">
+<permissions/>
+</role>
+</roles>
+<subjects>
+<subject id="Aleksandar Stojkov">
+<relation unit="Admins" role="Admin"/>
+</subject>
+<subject id="Peter Smith">
+<relation unit="Admins" role="Admin"/>
+</subject>
+<subject id="Jovan Filipovski">
+<relation unit="Admins" role="Admin"/>
+</subject>
+<subject id="Alexander Weber">
+<relation unit="Supervisors" role="Supervisor"/>
+</subject>
+<subject id="Gogo Chepujnoski">
+<relation unit="Supervisors" role="Supervisor"/>
+</subject>
+<subject id="Stefan Makaloski">
+<relation unit="Supervisors" role="Supervisor"/>
+</subject>
+<subject id="Gligor Stojkov">
+<relation unit="Users" role="User"/>
+</subject>
+<subject id="Tanja Turundzieva">
+<relation unit="Users" role="User"/>
+</subject>
+<subject id="Tatjana Sahadak">
+<relation unit="User" role="User"/>
+</subject>
+</subjects>
+</organisation>

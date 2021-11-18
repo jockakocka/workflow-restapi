@@ -1,0 +1,2 @@
+instructions,model,brokenPart
+The following instructions are for repairment of the smartphone: Iphone11 and the broken part is: Battery. 1. Shut down the smartphone 2. Remove the battery 3. Put the new received part: Battery 4. Watch the video https://www.youtube.com/watch?v=jtl4KKRIheo  Your phone should be finished now.,Iphone11,Battery

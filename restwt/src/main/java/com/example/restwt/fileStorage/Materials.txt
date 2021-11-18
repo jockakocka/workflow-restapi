@@ -1,0 +1,41 @@
+material name,material price,for phone
+GPU for Samsung s8,80,SamsungS8
+CPU for Samsung s8,70,SamsungS8
+Screen for Samsung s8, 40,SamsungS8
+Battery for Samsung s8,25,SamsungS8
+Charger port for Samsung s8,30,SamsungS8
+GPU for Samsung s7,70,SamsungS7
+CPU for Samsung s7,60,SamsungS7
+Screen for Samsung s7, 30,SamsungS7
+Battery for Samsung s7,15,SamsungS7
+Charger port for Samsung s7,20,SamsungS7
+GPU for Iphone 12,100,Iphone12
+CPU for Iphone 12,95,Iphone12
+Screen for Iphone 12, 70,Iphone12
+Battery for Iphone 12,40,Iphone12
+Charger port for Iphone 12,30,Iphone12
+GPU for Iphone 11,70,Iphone11
+CPU for Iphone 11,60,Iphone11
+Screen for Iphone 11, 30,Iphone11
+Battery for Iphone 11,20,Iphone11
+Charger port for Iphone 11,25,Iphone11
+GPU for Huawei p40,75,HuaweiP40
+CPU for Huawei p40,65,HuaweiP40
+Screen for Huawei p40, 52,HuaweiP40
+Battery for Huawei p40,33,HuaweiP40
+Charger port for Huawei p40,25,HuaweiP40
+GPU for Huawei p20,70,HuaweiP20
+CPU for Huawei p20,60,HuaweiP20
+Screen for Huawei p20,30,HuaweiP20
+Battery for Huawei p20,20,HuaweiP20
+Charger port for Huawei p20,25,HuaweiP20
+GPU for OnePlus 8T,90,OnePlus8T
+CPU for OnePlus 8T,80,OnePlus8T
+Screen for OnePlus 8T, 45,OnePlus8T
+Battery for OnePlus 8T,40,OnePlus8T
+Charger port for OnePlus 8T,30,OnePlus8T
+GPU for OnePlus 7T,70,OnePlus7T
+CPU for OnePlus 7T,60,OnePlus7T
+Screen for OnePlus 7T, 40,OnePlus7T
+Battery for OnePlus 7T,33,OnePlus7T
+Charger port for OnePlus 7T,28,OnePlus7T
